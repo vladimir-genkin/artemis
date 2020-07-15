@@ -3,12 +3,22 @@
 	"publisher": "vladimir-genkin",
 	"displayName": "Artemis",
 	"description": "Artemis dark color theme.",
-	"version": "0.0.3",
+	"version": "0.0.4",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vladimir-genkin/artemis"
+    },
 	"engines": {
 		"vscode": "^1.47.0"
 	},
 	"categories": [
 		"Themes"
+	],
+	"keywords": [
+		"dark",
+		"color",
+		"minimal",
+		"theme"
 	],
 	"contributes": {
 		"themes": [
