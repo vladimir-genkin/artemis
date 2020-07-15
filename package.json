@@ -1,0 +1,28 @@
+{
+	"name": "artemis",
+	"publisher": "vladimir-genkin",
+	"displayName": "Artemis",
+	"description": "Artemis dark color theme.",
+	"version": "0.0.3",
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Artemis",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Artemis-color-theme.json"
+			}
+		]
+	},
+	"icon": "images/Artemis.png",
+	"__metadata": {
+		"id": "1341eead-d80c-422d-b7f9-bb4474a81af1",
+		"publisherDisplayName": "Vladimir Genkin",
+		"publisherId": "bdeb2bfd-1f81-4ca0-98b7-d3dadaaf0325"
+	}
+}
