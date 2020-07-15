@@ -1,3 +1,3 @@
 # Artemis
 
-Artemis dark color theme.
+![Alt text](screenshots/editor.png?raw=true "Editor")
